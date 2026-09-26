@@ -1,0 +1,1 @@
+*.pyc  rm -r --cached FaceGuard\__pycache__
